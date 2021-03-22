@@ -19,6 +19,7 @@
 		03FA4B27209353CB0047D61B /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA4B26209353CB0047D61B /* Usuario.swift */; };
 		03FA4B29209354F50047D61B /* Leilao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA4B28209354F50047D61B /* Leilao.swift */; };
 		3E77EE412608C74200D3804B /* AvaliadorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E77EE402608C74200D3804B /* AvaliadorTests.swift */; };
+		3EDE080A2608F54D00823965 /* CriadorDeLeilao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EDE08092608F54D00823965 /* CriadorDeLeilao.swift */; };
 		A23F5A0F209CA483000E6525 /* Avaliador.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F5A0E209CA483000E6525 /* Avaliador.swift */; };
 /* End PBXBuildFile section */
 
@@ -58,6 +59,7 @@
 		03FA4B26209353CB0047D61B /* Usuario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
 		03FA4B28209354F50047D61B /* Leilao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Leilao.swift; sourceTree = "<group>"; };
 		3E77EE402608C74200D3804B /* AvaliadorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvaliadorTests.swift; sourceTree = "<group>"; };
+		3EDE08092608F54D00823965 /* CriadorDeLeilao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CriadorDeLeilao.swift; sourceTree = "<group>"; };
 		A23F5A0E209CA483000E6525 /* Avaliador.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Avaliador.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -126,8 +128,8 @@
 			isa = PBXGroup;
 			children = (
 				03FA4B08209353290047D61B /* LeilaoTests.swift */,
-				03FA4B0A209353290047D61B /* Info.plist */,
 				3E77EE402608C74200D3804B /* AvaliadorTests.swift */,
+				03FA4B0A209353290047D61B /* Info.plist */,
 			);
 			path = LeilaoTests;
 			sourceTree = "<group>";
@@ -148,6 +150,7 @@
 				03FA4B26209353CB0047D61B /* Usuario.swift */,
 				03FA4B28209354F50047D61B /* Leilao.swift */,
 				A23F5A0E209CA483000E6525 /* Avaliador.swift */,
+				3EDE08092608F54D00823965 /* CriadorDeLeilao.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -301,6 +304,7 @@
 				03FA4AF3209353270047D61B /* ViewController.swift in Sources */,
 				03FA4B25209353AF0047D61B /* Lance.swift in Sources */,
 				03FA4AF1209353270047D61B /* AppDelegate.swift in Sources */,
+				3EDE080A2608F54D00823965 /* CriadorDeLeilao.swift in Sources */,
 				03FA4B27209353CB0047D61B /* Usuario.swift in Sources */,
 				03FA4AF9209353270047D61B /* Leilao.xcdatamodeld in Sources */,
 				A23F5A0F209CA483000E6525 /* Avaliador.swift in Sources */,
